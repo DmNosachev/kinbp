@@ -37,9 +37,8 @@ The choice of connectors depends on the keyboard model:
   - 12 pcs SOD-323 1N4148 diodes.
   - Optional [switch mounting plates](https://github.com/DmNosachev/kin80/tree/main/plates/thumb)
   - set of connectors and cables (see above)
-### ** Switches **
-  - 68 pcs Cherry MX compatible switches.
-  - Optional: switch opener (if you want to reuse the stock switches after cleaning them)
+### Switches
+  - Optional: 68 pcs Cherry MX compatible switches.
   
 ## Buid guide
 1. Test your keyboard. Identify faulty switches. Decide if you like the switches (most of the time there will Cherry Browns) and the top row rubber buttons. If rubber buttons are unacceptable to you and you do not mind spending a lot of time on hand-wiring, then it is worth considering an alternative project — (Kin80)[https://github.com/DmNosachev/kin80].
