@@ -15,16 +15,16 @@ It serves the same purpose as [KinT controller](https://github.com/kinx-project/
 ###  Connectors
 The choice of connectors depends on the keyboard model:
  - KB600 (Advantage2).
- 1. 6x 13-pin FPC connectors. (Molex 39-53-2135)[https://octopart.com/39-53-2135-molex-7670149?r=sp] or cheap (5 USD for 20 pcs) [connectors from Aliexpress](https://aliexpress.com/item/1005001616368875.html?item_id=1005001616368875&sku_id=12000016826250362&spm=a2g2w.productlist.0.0.388b79adVkSP7k)
+ 1. 6x 13-pin FPC connectors. [Molex 39-53-2135](https://octopart.com/39-53-2135-molex-7670149?r=sp) or cheap (5 USD for 20 pcs) [connectors from Aliexpress](https://aliexpress.com/item/1005001616368875.html?item_id=1005001616368875&sku_id=12000016826250362&spm=a2g2w.productlist.0.0.388b79adVkSP7k)
 
  - KB500 (Advantage).
  1. Connecting keywells and top rows: 4x 13-pin FPC connectors, same as mentioned above.
  2. Connecting thumb cluster PCBs: 2x 10-pin angled 2.54mm headers.
 
  - KB13x (Essential, Classic, Professional).
- 1. Connecting keywell PCBs: 2x (angled 13-pin FPC connectors)[https://aliexpress.com/item/32896882494.html?gatewayAdapt=glo2rus&item_id=32896882494&sku_id=65719775344&spm=a2g0s.12269583.0.0.716190456RjJJP].
+ 1. Connecting keywell PCBs: 2x [angled 13-pin FPC connectors](https://aliexpress.com/item/32896882494.html?gatewayAdapt=glo2rus&item_id=32896882494&sku_id=65719775344&spm=a2g0s.12269583.0.0.716190456RjJJP).
  2. Connecting top rows: same angled connectors or straight (same as for KB500/KB600).
- 3. Some models had LEDs on the thumb cluster PCBs instead of the controller PCB. In this case you will need a pair of new thum cluster PCBs, optional switch mounting plates (see below) and set of cables/connectors with 1.25mm pitch: 2x (7 pin micro JST 10cm cables)[https://aliexpress.com/item/4000588750065.html?sku_id=10000003451067244&spm=a2g0o.store_pc_allProduct.8148356.2.6c274451oTiXZp&gatewayAdapt=glo2rus] + 4x (7 pin micro JST angled connector)[https://aliexpress.com/item/4000587245338.html?spm=a2g0o.store_pc_allProduct.8148356.8.3bf42024ng7J27&pdp_npi=2%40dis%21RUB%2184%2C24%20%D1%80%D1%83%D0%B1.%2184%2C24%20%D1%80%D1%83%D0%B1.%21%21%21%21%21%40211675ce16784397398875718e4cd2%2110000003439523920%21sh&sku_id=10000003439523925].
+ 3. Some models had LEDs on the thumb cluster PCBs instead of the controller PCB. In this case you will need a pair of new thum cluster PCBs, optional switch mounting plates (see below) and set of cables/connectors with 1.25mm pitch: 2x [7 pin micro JST 10cm cables](https://aliexpress.com/item/4000588750065.html?sku_id=10000003451067244&spm=a2g0o.store_pc_allProduct.8148356.2.6c274451oTiXZp&gatewayAdapt=glo2rus) + 4x [7 pin micro JST angled connector](https://aliexpress.com/item/4000587245338.html?spm=a2g0o.store_pc_allProduct.8148356.8.3bf42024ng7J27&pdp_npi=2%40dis%21RUB%2184%2C24%20%D1%80%D1%83%D0%B1.%2184%2C24%20%D1%80%D1%83%D0%B1.%21%21%21%21%21%40211675ce16784397398875718e4cd2%2110000003439523920%21sh&sku_id=10000003439523925).
  You can also reuse connectors from an stock controller, but desoldering them can be tricky.
  
 ### Controller PCB (/controller-pcb).
