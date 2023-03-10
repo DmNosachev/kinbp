@@ -33,20 +33,20 @@ The choice of connectors depends on the keyboard model:
  2. Connecting top rows: same angled connectors or straight (same as for KB500/KB600).
  3. Some models had LEDs on the thumb cluster PCBs instead of the controller PCB. In this case you will need a pair of new thum cluster PCBs, optional switch mounting plates (see below) and set of cables/connectors with 1.25mm pitch: 2x [7 pin micro JST 10cm cables](https://aliexpress.com/item/4000588750065.html?sku_id=10000003451067244&spm=a2g0o.store_pc_allProduct.8148356.2.6c274451oTiXZp&gatewayAdapt=glo2rus) + 4x [7 pin micro JST angled connector](https://aliexpress.com/item/4000587245338.html?spm=a2g0o.store_pc_allProduct.8148356.8.3bf42024ng7J27&pdp_npi=2%40dis%21RUB%2184%2C24%20%D1%80%D1%83%D0%B1.%2184%2C24%20%D1%80%D1%83%D0%B1.%21%21%21%21%21%40211675ce16784397398875718e4cd2%2110000003439523920%21sh&sku_id=10000003439523925).
  
- Example of incompatible stock thumb cluster PCBc (Kinesis Professional KB134PC): [Imgur](https://i.imgur.com/KSjBS69h.jpg)
+ Example of incompatible stock thumb cluster PCBc (Kinesis Professional KB134PC): ![KB134PC controller](https://i.imgur.com/KSjBS69h.jpg)
  
- You can also reuse connectors from an stock controller, but desoldering them can be tricky. Please note that the Chinese aliexpress connectors and some of the older connectors only had contacts on one side. For the top rows, you need to position the connector so that the contacts are on the outside (there are two footprints for this): [Imgur](https://i.imgur.com/WiBvV45h.jpg)
+ You can also reuse connectors from an stock controller, but desoldering them can be tricky. Please note that the Chinese aliexpress connectors and some of the older connectors only had contacts on one side. For the top rows, you need to position the connector so that the contacts are on the outside (there are two footprints for this): ![top row connector](https://i.imgur.com/WiBvV45h.jpg)
  
 ### Controller PCB (/controller-pcb).
   - [WeAct Studio STM32F401 or STM32F411](https://github.com/WeActTC/MiniSTM32F4x1) board. You can buy them for about 6 USD at the [official Aliexpress store](https://weactstudio.aliexpress.com/). Beware of pirated copies!
-  [Imgur](https://i.imgur.com/enW1L5uh.png)
+  ![KinBP v1.21](https://i.imgur.com/enW1L5uh.png)
   - 4 pcs 3-mm LEDs
   - 4 pcs 0805 or through-hole resistors. Their value depends on the type of LEDs (I use 1.5k Ohm for orange LEDs).
   - Pair of USB Type C male and female connectors.
 ###  Thumb cluster (/thumb-pcb)
   - The design is reversible. So, a minimal batch of 5 PCBs will give you 2 pairs + 1 spare.
-  [Imgur](https://i.imgur.com/cEafu8ph.png)
-  [Imgur](https://i.imgur.com/XnGld7Fh.png)
+  ![Thumb PCB](https://i.imgur.com/cEafu8ph.png)
+  ![Thumb PCB](https://i.imgur.com/XnGld7Fh.png)
   - 12x SOD-123 1N4148 diodes.
   - Optional [switch mounting plates](https://github.com/DmNosachev/kin80/tree/main/plates/thumb)
   - set of connectors and cables (see above)
