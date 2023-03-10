@@ -13,7 +13,7 @@ It serves the same purpose as [KinT controller](https://github.com/kinx-project/
 - Replacement thumb cluster PCBs with reversible design. They may be needed for some of 13x models (see below). 
 - Thumb cluster switch mounting plates.
 
-## Chagelog
+## Changelog
 1.21
 - added 7-pin 1.25mm connector footprints (micro JST) for custom thumb cluster PCBs
 - added spare footprints upside down for connectors with pins on the other sideю
