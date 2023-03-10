@@ -3,7 +3,7 @@ KinBP is a drop-in replacement controller for [Kinesis Contoured keyboards](http
 
 It serves the same purpose as [KinT controller](https://github.com/kinx-project/kint) created by Michael Stapelberg.
 
-[KinBP v1.2](https://i.imgur.com/tfWhnpxh.jpg)
+[KinBP v1.2](https://i.imgur.com/tfWhnpx.jpg)
 
 ## Features and advantages
 - Controller with [QMK firmware](https://qmk.fm/) support.
