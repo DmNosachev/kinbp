@@ -22,7 +22,7 @@ It serves the same purpose as [KinT controller](https://github.com/kinx-project/
 ###  Connectors
 The choice of connectors depends on the keyboard model:
  - KB600 (Advantage2).
- 1. 6x 13-pin FPC connectors. [Molex 39-53-2135](https://octopart.com/39-53-2135-molex-7670149?r=sp) or cheap (5 USD for 20 pcs) [connectors from Aliexpress](https://aliexpress.com/item/1005001616368875.html?item_id=1005001616368875&sku_id=12000016826250362&spm=a2g2w.productlist.0.0.388b79adVkSP7k)
+ 1. 6x 13-pin FPC connectors. [Molex 39-53-2135](https://octopart.com/39-53-2135-molex-7670149?r=sp).  Please note that the cheap (5 USD for 20 pcs) [connectors from Aliexpress](https://aliexpress.com/item/1005001616368875.html?item_id=1005001616368875&sku_id=12000016826250362&spm=a2g2w.productlist.0.0.388b79adVkSP7k) are polarised and can only be used for the top row connectors on the KB600; using them in the other positions will not work because the pads on the FPC cable are on the wrong side and the cables are too short to be twisted.
 
  - KB500 (Advantage).
  1. Connecting keywells and top rows: 4x 13-pin FPC connectors, same as mentioned above.
